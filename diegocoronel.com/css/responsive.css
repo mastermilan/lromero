@@ -1,0 +1,253 @@
+@media only screen 
+
+and (min-device-width : 320px) and (max-device-width : 480px) {
+
+/* Smartphones (portrait and landscape) ----------- */
+.header {
+	background-color:#000000;
+	height:390px;	
+}
+.carousel .carousel-inner > .item > img {
+  height: 380px;
+}
+.whatsapp {
+	z-index: 1;	
+}
+.whatsapp img {
+   
+	z-index: 1;
+}
+header {margin-top:auto; }
+
+.grow{
+	 display:block;
+     margin-left: auto;
+	 margin-right: auto;
+	 margin-bottom: 0px;height: 135px;
+       width:135px;
+     -moz-border-radius: 20%;
+     -webkit-border-radius: 20%;
+      border-radius: 55%;
+	  border: 5px #E0E4E4     solid;
+	  margin-top: -80px;
+	  background-size: 130px; /*tamaño de imagen de fondo en ccs3 */
+}
+
+/*===== Carrusel ======*/	
+#carousel_primero {
+	font-size:28px;
+	height: 80px;
+	text-shadow: 2px 2px #000000;
+	}
+#texto_primero {
+	font-size:16px;
+	height: 40px;
+	text-shadow: 2px 2px #000000; 
+}
+#carousel1 {
+	font-size:28px; 
+	height: 80px;
+	color: #0FB108;
+	text-shadow: 2px 2px #000000;
+	}
+#texto1 {
+	font-size:16px;
+	height: 40px;
+	text-shadow: 2px 2px #000000; 
+	 }
+#carousel2 {
+	font-size:28px; 
+	height: 80px;
+	color: #0FB108;
+	text-shadow: 2px 2px #000000;
+	}
+#texto2 {
+	font-size:15px;
+	height: 40px; 
+	text-shadow: 2px 2px #000000; }
+	
+/*=====Programador ======*/	
+	
+	 .programador { 
+height:440px;
+}
+.programador .section-title{
+	font-size:28px;
+}
+.programador .section-description {
+	font-size:16px;
+}
+/*=====Services ======*/
+
+.services { 
+width: 100%;
+height:auto;
+font-size:12px;
+font-weight: normal; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;
+}
+
+.services .service-icon i {
+	font-size:26px;
+	}
+.services #services .service-item {
+  margin-bottom: 30px;
+}	
+#services .service-title {
+  margin-left: 55px;
+  font-weight: 500px;
+  text-transform: uppercase;
+ }
+ .services h4 {
+	 font-size:16px; }
+
+#services .service-title a {
+  color: #111;
+ }
+#services .service-description {
+	margin-left: 55px;
+  }	
+/* Espacio ----------- */
+.espacio mark {
+	font-size:16px;
+}
+.marktext { 
+padding-top: 0px;
+ }
+ .marktext1 { 
+padding-top: 0px;
+ }
+.espacio {
+	width: 100%;
+	height: 200px;
+	padding: 0px;
+	margin: 0px;
+}
+/*---Desarrollo Web a Medida ----------- */
+.desarrolloweb {
+	width:100%;
+	height:auto;
+	font-size:16px;
+}
+.desarrollo img {
+	padding-top:50px; 
+}
+
+/*---Franja Proyecto ----------- */
+.franja {
+	width: 100%;
+	height:200px;
+}
+.franja h4 {
+	font-size: 20px;
+}
+/*---porfolio----------- */
+#porfolio {
+	width:100%;
+	height:auto;
+	z-index:-1;
+
+}
+/*-----  Sobre Mi----------- */
+.sobremi {
+	width:100%;
+	padding:10px;
+	margin:0px;
+	height:auto;
+}
+.sobremi .service-description {
+	font-size:14px;
+	font-weight: normal; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;
+	}
+.sobremi #yomi {
+	font-size:14px;
+	font-weight: normal; font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif;
+	}
+	
+/*----- FIN Sobre Mi----------- */
+	
+	
+
+}
+
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 767px) {
+   
+
+header {
+	margin-top:auto;
+	 }
+	 .carousel .carousel-inner > .item > img {
+  height: 600px;
+}
+}
+
+
+
+
+
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) 
+
+and (orientation : landscape) {
+header {
+	margin-top:auto;
+	 }
+ .carousel .carousel-inner > .item > img {
+  height: 600px;
+}
+}
+
+
+
+
+
+@media only screen 
+
+and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+	header {
+	margin-top:auto;
+	 }
+ .carousel .carousel-inner > .item > img {
+  height: 600px;
+}
+}
+
+
+
+@media only screen 
+
+and (min-width : 1200px) {
+
+/* Desktops and laptops ----------- */
+
+
+
+}
+
+
+
+@media only screen 
+
+and (min-width : 1700px) {
+
+/* Large screens ----------- */
+
+
+
+}
+
+
+@media (min-width: 768px) {
+    .carousel, .carousel-inner > .item > img {
+  height: 480px;
+}
+}
+ 
+@media (min-width: 992px) {
+    /* ... */
+}
+ 
+@media (min-width: 1200px) {
+    /* ... */
+}

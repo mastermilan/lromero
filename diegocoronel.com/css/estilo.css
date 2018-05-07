@@ -1,0 +1,421 @@
+body{ 
+    margin: 0px;
+	padding-top: 0px;
+	padding: 0px;
+	width:100%;
+	}
+.header {
+	background-color:#000000;
+	height:510px;	
+}
+.whatsapp {
+	position: fixed;
+	bottom: 0;
+    right: 0;
+	z-index: 2;	
+}
+.whatsapp img {
+    
+	z-index: 2;
+}
+
+#carousel_primero{
+	height: 150px;
+	font-size:42px;
+	font-family: 'Russo One', sans-serif;
+	color: hsla(127,86%,30%,1.00);
+	text-shadow: 4px 4px #000000;
+	}
+#texto_primero {
+	font-size:28px;
+	height: 90px;
+	
+font-family: 'Amaranth', sans-serif; 
+}		
+#carousel1 {
+	font-size:42px; 
+	height: 150px;
+	color: hsla(127,86%,30%,1.00);
+	font-family: 'Russo One', sans-serif;
+	text-shadow: 4px 4px #000000;
+	}
+	
+#texto1 {
+	height: 90px;
+	font-size:28px;
+	color:#ffffff; 
+	
+font-family: 'Amaranth', sans-serif;
+	text-shadow: 4px 4px #000000;}	
+	
+#carousel2 {
+	height: 150px;
+	font-size:42px;
+	color: hsla(127,86%,30%,1.00);
+	font-family: 'Russo One', sans-serif;
+	text-shadow: 4px 4px #000000;
+
+	 
+	}
+	
+#texto2 {
+	height: 90px;
+	font-size:26px;
+	color:#ffffff; 
+	
+font-family: 'Amaranth', sans-serif;
+	text-shadow: 4px 4px #000000;}	
+
+		
+	
+.grow:hover{
+-webkit-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+border: 10px #fff   solid;
+}
+
+
+.grow{
+	 display:block;
+     margin-left: auto;
+	 margin-right: auto;
+	 margin-top: -230px;
+	 margin-bottom: 0px;
+	 width: 200px;
+     height: 200px;
+     -moz-border-radius: 20%;
+     -webkit-border-radius: 20%;
+     border-radius: 55%;
+	 border: 10px #E0E4E4     solid;
+	 background-image: url(../../www.diegocoronel.com/img/fondos/diegocoronel.jpg);
+	 position:relative;
+	 top: -150px; /* ubicacion del circulo */
+	 /* box-shadow: -0px 10px 35px rgba(0, 0, 0, .5); sombra al circulo */ 
+     
+	 }
+	
+	
+.programador{
+	text-align:center;
+	font-family: 'Russo One', sans-serif;
+	font-size:36px;
+	padding-top: 30px;
+	height:380px;
+	color: rgba(38,37,37,1.00);
+	}
+	
+	.programador .section-description {
+		font-family: 'Amaranth', sans-serif;
+		font-size:22px;
+		}
+
+#services {
+	padding-top:20px;
+	
+}
+
+	
+
+
+
+.service-icon {
+  float: left;
+ }
+ 
+ .service-icon i {
+  color: #000;
+  font-size: 32px;
+}
+
+/*linea verde */
+.section-title-divider {
+  width: 150px;
+  height: 4px;
+  background: hsla(127,86%,30%,1.00);
+  margin: 0 auto;
+  margin-bottom: 50px;
+} /*linea verde */
+
+#services .service-item:hover .service-icon i {
+  color: hsla(127,86%,30%,1.00);
+}
+
+#services {
+ background:  linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(img/Services-bg.jpg) ;
+  background-size: cover;
+  
+  padding: 10px 0px 10px 0;
+
+ 
+
+}
+
+#services .service-item {
+  margin-bottom: 50px;
+}
+
+
+
+#services .service-title {
+  margin-left: 65px;
+  font-weight: 200px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+ 
+  color: rgba(38,37,37,1.00);
+  font-size:18px;
+  
+}
+
+#services .service-title a {
+  color: #111;
+}
+
+#services .service-description {
+	margin-left: 65px;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color:#4B4B4B;
+  
+}
+
+.espacio {
+	background: url(../../www.diegocoronel.com/img/fondos/fondo3.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	width: 100%;
+	height: 300px;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.marktext { 
+padding-top: 90px;
+text-shadow: 3px 3px #000000;
+font-size: 1.8em;
+
+	 }
+	
+.marktext1 { padding-top: 0px;
+text-shadow: 3px 3px #000000;
+font-size: 1.8em;
+padding-top:150px;
+
+	 }
+
+#porfolio .service-title {
+	color:rgba(38,37,37,1.00);
+	font-size:36px;
+	margin-top:40px;
+}
+#porfolio {
+	width:100%;
+	height:450;
+	background-color: rgba(183,183,183,0.53);
+	padding-bottom:50px;
+	font-family: 'Russo One', sans-serif;
+	
+	z-index: -1;
+	}
+
+#porfolio .section-title-divider {
+   
+  width: 150px;
+  height: 3px;
+  background: hsla(127,86%,30%,1.00);
+  margin: 0 auto;
+  margin-bottom: 50px;
+   }
+/* imagen efecto q se sube 
+img{
+    border: 5px solid #ccc;
+    float: left;
+    margin: 15px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;
+}
+ 
+img:hover {
+    margin-top: 2px;
+}
+
+
+/* fin imagen efecto q se sube ---*/
+
+
+
+
+.desarrolloweb {
+	padding-top:20px;
+	height:auto;
+	width:100%; 
+	padding:0px;
+	
+	}
+	
+	
+.desarrolloweb .section-title-divider {
+   
+  width: 150px;
+  height: 3px;
+  background: hsla(127,86%,30%,1.00);
+  margin: 0 auto;
+  margin-bottom: 50px;
+   }
+  	
+.desarrolloweb .service-title {
+	font-size:36px;
+	padding: 5px;
+	padding-top:120px;
+	font-family: 'Russo One', sans-serif;
+	color:rgba(38,37,37,1.00);
+	 }
+
+/*==================================*/
+
+/*=============================*/
+	
+.desarrolloweb .panel-title { 
+padding: 0px;
+padding-top:20px;
+color: hsla(127,86%,30%,1.00);
+font-size:28px;;
+font-family: 'Russo One', sans-serif;
+}
+
+.desarrolloweb .service-description {
+	padding-top: 40px; }
+
+
+.franja { height: 140px;
+width: 100%;
+padding:50px;
+background-color:rgba(54,54,54,1.00);
+
+ }
+
+.franja span {
+	font-size:28px;
+	}
+	
+
+
+/*info {
+	color: rgba(200,196,196,1.00);
+	font-size:13px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif} */
+
+.form-control { background-color:rgba(0,0,0,0.76);
+color: hsla(127,86%,30%,1.00) }
+
+
+.contacto .service-title {
+	font-family: 'Russo One', sans-serif;
+	font-size:30px;
+	padding-top: 40px;
+	}	
+
+.contacto { auto;
+	width:100%; 
+	padding:20px;	
+	}	
+.contacto .section-title-divider {
+	padding-top:3px;
+	height: 3px;
+  background: hsla(127,86%,30%,1.00);
+  margin: 0 auto;
+  margin-bottom: 30px;
+  }
+	
+
+#contacto {
+ background:  linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/contacto.jpg);
+  background-size: cover;
+  }
+/*url(img/desing.jpg)*/
+
+.fa {
+	 display: block;
+     margin-left: auto;
+	 margin-right: auto;
+	 margin-top: 10px;
+	 margin-bottom: 0px;
+	
+  padding: 12px;
+  font-size: 60px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px 4px;
+  border-radius: 50%;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.col-md-5{
+  font-family: 'Cabin', sans-serif;
+  font-size: 17px;
+}
+
+#social{
+	width: 100%;
+	height: 100px;
+	background-color: #000;
+
+}
+
+.verif{ display: none; }
+
+#antesfinal {
+    background-color: #1F1F1F;
+    height:70px;
+    width: 100%;
+	color: #fff;
+}
+
+
+
+#antesfinal a { 
+color:#FFFFFF;
+
+}
+footer {
+	background-color: #0E0E0E;
+	height: 250px;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+  color: #A796A0;
+  font-size: 14px;
+  
+}
