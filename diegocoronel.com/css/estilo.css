@@ -1,4 +1,4 @@
-body{ 
+body{
     margin: 0px;
 	padding-top: 0px;
 	padding: 0px;
@@ -6,16 +6,16 @@ body{
 	}
 .header {
 	background-color:#000000;
-	height:510px;	
+	height:510px;
 }
 .whatsapp {
 	position: fixed;
 	bottom: 0;
     right: 0;
-	z-index: 2;	
+	z-index: 2;
 }
 .whatsapp img {
-    
+
 	z-index: 2;
 }
 
@@ -29,25 +29,25 @@ body{
 #texto_primero {
 	font-size:28px;
 	height: 90px;
-	
-font-family: 'Amaranth', sans-serif; 
-}		
+
+font-family: 'Amaranth', sans-serif;
+}
 #carousel1 {
-	font-size:42px; 
+	font-size:42px;
 	height: 150px;
 	color: hsla(127,86%,30%,1.00);
 	font-family: 'Russo One', sans-serif;
 	text-shadow: 4px 4px #000000;
 	}
-	
+
 #texto1 {
 	height: 90px;
 	font-size:28px;
-	color:#ffffff; 
-	
+	color:#ffffff;
+
 font-family: 'Amaranth', sans-serif;
-	text-shadow: 4px 4px #000000;}	
-	
+	text-shadow: 4px 4px #000000;}
+
 #carousel2 {
 	height: 150px;
 	font-size:42px;
@@ -55,19 +55,19 @@ font-family: 'Amaranth', sans-serif;
 	font-family: 'Russo One', sans-serif;
 	text-shadow: 4px 4px #000000;
 
-	 
+
 	}
-	
+
 #texto2 {
 	height: 90px;
 	font-size:26px;
-	color:#ffffff; 
-	
-font-family: 'Amaranth', sans-serif;
-	text-shadow: 4px 4px #000000;}	
+	color:#ffffff;
 
-		
-	
+font-family: 'Amaranth', sans-serif;
+	text-shadow: 4px 4px #000000;}
+
+
+
 .grow:hover{
 -webkit-transform: scale(1.1);
 -ms-transform: scale(1.1);
@@ -87,15 +87,15 @@ border: 10px #fff   solid;
      -moz-border-radius: 20%;
      -webkit-border-radius: 20%;
      border-radius: 55%;
-	 border: 10px #E0E4E4     solid;
-	 background-image: url(../../www.diegocoronel.com/img/fondos/diegocoronel.jpg);
+	  border: 10px #E0E4E4     solid;
+	  background-image: url(../../www.lrv.com/img/fondos/diegocoronel.jpg);
 	 position:relative;
 	 top: -150px; /* ubicacion del circulo */
-	 /* box-shadow: -0px 10px 35px rgba(0, 0, 0, .5); sombra al circulo */ 
-     
+	 /* box-shadow: -0px 10px 35px rgba(0, 0, 0, .5); sombra al circulo */
+
 	 }
-	
-	
+
+
 .programador{
 	text-align:center;
 	font-family: 'Russo One', sans-serif;
@@ -104,7 +104,7 @@ border: 10px #fff   solid;
 	height:380px;
 	color: rgba(38,37,37,1.00);
 	}
-	
+
 	.programador .section-description {
 		font-family: 'Amaranth', sans-serif;
 		font-size:22px;
@@ -112,17 +112,17 @@ border: 10px #fff   solid;
 
 #services {
 	padding-top:20px;
-	
+
 }
 
-	
+
 
 
 
 .service-icon {
   float: left;
  }
- 
+
  .service-icon i {
   color: #000;
   font-size: 32px;
@@ -144,10 +144,10 @@ border: 10px #fff   solid;
 #services {
  background:  linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(img/Services-bg.jpg) ;
   background-size: cover;
-  
+
   padding: 10px 0px 10px 0;
 
- 
+
 
 }
 
@@ -162,10 +162,10 @@ border: 10px #fff   solid;
   font-weight: 200px;
   margin-bottom: 20px;
   text-transform: uppercase;
- 
+
   color: rgba(38,37,37,1.00);
   font-size:18px;
-  
+
 }
 
 #services .service-title a {
@@ -179,11 +179,11 @@ border: 10px #fff   solid;
 	line-height: normal;
 	font-weight: normal;
 	color:#4B4B4B;
-  
+
 }
 
 .espacio {
-	background: url(../../www.diegocoronel.com/img/fondos/fondo3.jpg) no-repeat center center fixed;
+	background: url(../../www.lrv.com/img/fondos/fondo3.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -195,13 +195,13 @@ border: 10px #fff   solid;
 }
 
 
-.marktext { 
+.marktext {
 padding-top: 90px;
 text-shadow: 3px 3px #000000;
 font-size: 1.8em;
 
 	 }
-	
+
 .marktext1 { padding-top: 0px;
 text-shadow: 3px 3px #000000;
 font-size: 1.8em;
@@ -220,19 +220,19 @@ padding-top:150px;
 	background-color: rgba(183,183,183,0.53);
 	padding-bottom:50px;
 	font-family: 'Russo One', sans-serif;
-	
+
 	z-index: -1;
 	}
 
 #porfolio .section-title-divider {
-   
+
   width: 150px;
   height: 3px;
   background: hsla(127,86%,30%,1.00);
   margin: 0 auto;
   margin-bottom: 50px;
    }
-/* imagen efecto q se sube 
+/* imagen efecto q se sube
 img{
     border: 5px solid #ccc;
     float: left;
@@ -241,7 +241,7 @@ img{
     -moz-transition: margin 0.5s ease-out;
     -o-transition: margin 0.5s ease-out;
 }
- 
+
 img:hover {
     margin-top: 2px;
 }
@@ -255,21 +255,21 @@ img:hover {
 .desarrolloweb {
 	padding-top:20px;
 	height:auto;
-	width:100%; 
+	width:100%;
 	padding:0px;
-	
+
 	}
-	
-	
+
+
 .desarrolloweb .section-title-divider {
-   
+
   width: 150px;
   height: 3px;
   background: hsla(127,86%,30%,1.00);
   margin: 0 auto;
   margin-bottom: 50px;
    }
-  	
+
 .desarrolloweb .service-title {
 	font-size:36px;
 	padding: 5px;
@@ -281,8 +281,8 @@ img:hover {
 /*==================================*/
 
 /*=============================*/
-	
-.desarrolloweb .panel-title { 
+
+.desarrolloweb .panel-title {
 padding: 0px;
 padding-top:20px;
 color: hsla(127,86%,30%,1.00);
@@ -304,7 +304,7 @@ background-color:rgba(54,54,54,1.00);
 .franja span {
 	font-size:28px;
 	}
-	
+
 
 
 /*info {
@@ -320,12 +320,12 @@ color: hsla(127,86%,30%,1.00) }
 	font-family: 'Russo One', sans-serif;
 	font-size:30px;
 	padding-top: 40px;
-	}	
+	}
 
 .contacto { auto;
-	width:100%; 
-	padding:20px;	
-	}	
+	width:100%;
+	padding:20px;
+	}
 .contacto .section-title-divider {
 	padding-top:3px;
 	height: 3px;
@@ -333,7 +333,7 @@ color: hsla(127,86%,30%,1.00) }
   margin: 0 auto;
   margin-bottom: 30px;
   }
-	
+
 
 #contacto {
  background:  linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(img/contacto.jpg);
@@ -347,7 +347,7 @@ color: hsla(127,86%,30%,1.00) }
 	 margin-right: auto;
 	 margin-top: 10px;
 	 margin-bottom: 0px;
-	
+
   padding: 12px;
   font-size: 60px;
   width: 40px;
@@ -405,7 +405,7 @@ color: hsla(127,86%,30%,1.00) }
 
 
 
-#antesfinal a { 
+#antesfinal a {
 color:#FFFFFF;
 
 }
@@ -417,5 +417,5 @@ footer {
 	margin: 0px;
   color: #A796A0;
   font-size: 14px;
-  
+
 }
