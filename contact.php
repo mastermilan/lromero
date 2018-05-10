@@ -56,10 +56,10 @@ $headers = 'From: '.$email."\r\n".
 'X-Mailer: PHP/' . phpversion();
 @mail($email_to, $email_subject, $email_message, $headers);  
 ?>
-<meta http-equiv="refresh" content="3;URL=http://lromero.ml" /><!-- Redireccionar a pagina principal despues de 3 segundos -->
+<meta http-equiv="refresh" content="3;URL=http://www.lromerov.tk" /><!-- Redireccionar a pagina principal despues de 3 segundos -->
 <!-- incluimos nuestro mensaje de agradecimiento -->
 <body>
-<h2>Me comunicaré con usted lo antes posible. ahora sera redireccionado a la pagina principal. Muchas Gracias.</h2>
+<h2>Me comunicaré con usted lo antes posible. ahora sera redireccionado a la página principal. Muchas Gracias.</h2>
 </body>
 <?php
 }
