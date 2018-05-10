@@ -435,16 +435,17 @@ display: block; border-style: solid; border-width: 1px; border-color: #dedede; m
  color: #333; border-color: rgba(41, 92, 161, 0.4); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset, 0 0 3px rgba(41, 92, 161, 0.6); outline: 0 none; 
 }
 #efren-martinez-form input#name { 
-	background: #fff url('user.png') 5px 4px no-repeat;
+	background: #fff url('../img/png/1.png') 5px 4px no-repeat;
+	
 }
 #efren-martinez-form input#email { 
-background: #fff url('email.png') 5px 4px no-repeat;
+background: #fff url('../img/png/2.png') 5px 4px no-repeat;
 }
 #efren-martinez-form input#website { 
 background: #fff url('website.png') 5px 4px no-repeat;
 }
 #efren-martinez-form input#telephone { 
-background: #fff url('phone.png') 5px 4px no-repeat;
+background: #fff url('../img/png/3.png') 5px 4px no-repeat;
 }
 #efren-martinez-form textarea { 
 display: block; font-family: "Raleway", sans-serif; border-style: solid; border-width: 1px; border-color: #dedede; margin-bottom: 15px; font-size: 1.2em; padding: 11px 25px; padding-left: 55px; width: 86%; height: 120px; color: #777; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset; transition: border 0.15s linear 0s, box-shadow 0.15s linear 0s, color 0.15s linear 0s;
@@ -453,7 +454,7 @@ display: block; font-family: "Raleway", sans-serif; border-style: solid; border-
 color: #333; border-color: rgba(41, 92, 161, 0.4); box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset, 0 0 3px rgba(40, 90, 160, 0.6); outline: 0 none; 
 }
 #efren-martinez-form textarea.txtblock { 
-background: #fff url('speech.png') 5px 4px no-repeat;
+background: #fff url('../img/png/4.png') 5px 4px no-repeat;
 }
 #efren-martinez-form #aligned { 
 box-sizing: border-box;  float: left;  width: 450px; margin-right: 50px; 
